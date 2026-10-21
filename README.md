@@ -6,8 +6,6 @@
   <img src="assets/npl-lockup-horizontal-dark-on-light.svg" width="360" alt="Nine Point Labs logo: a 9 built from nine short lines, beside the words Nine Point Labs" />
 </picture>
 
-# Nine Point Labs
-
 <a href="https://ninepointlabs.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=2AA4CF&center=true&vCenter=true&width=640&lines=Small%2C+useful+software+for+Linux.;Native+apps+for+Omarchy.;Terminal+tools+that+earn+their+keep.;Nostr+infrastructure%2C+self-custodied.;Shipped+by+one+human+and+a+few+AI+agents." alt="Small, useful software for Linux." /></a>
 
 [![Website](https://img.shields.io/badge/ninepointlabs.com-0A536A?style=for-the-badge&labelColor=0C0E11)](https://ninepointlabs.com)
