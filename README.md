@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/npl-mark.svg" width="120" alt="Nine Point Labs nine-point star" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/npl-lockup-horizontal-light-on-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/npl-lockup-horizontal-dark-on-light.svg" />
+  <img src="assets/npl-lockup-horizontal-dark-on-light.svg" width="360" alt="Nine Point Labs logo: a 9 built from nine short lines, beside the words Nine Point Labs" />
+</picture>
 
 # Nine Point Labs
 
@@ -23,7 +27,7 @@ Combat veteran, semi-retired technologist, Tae Kwon Do dad in East Texas. I writ
 
 Most of what I build is native to [Omarchy](https://omarchy.org), and all of it is open source except Persistwise. I write about it all on [the blog](https://blog.ninepointlabs.com).
 
-<sub>**Why nine?** In the Bahá'í Faith, nine is the number of completeness and unity, hence the nine-pointed star.</sub>
+<sub>**Why nine?** In the Army, a nine-line is a short report with nine items. You fill it in, send it, and help is on the way. No fluff, nothing extra, and it works when it counts. I carried that idea with me from the infantry into building software. Nine Point Labs makes small, clear tools for Linux and the open web that do their job and stay out of your way. (And yes, the 'Labs' is a little nod to Bell Labs.)</sub>
 
 ### ✦ Fresh off the press
 
