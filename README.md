@@ -6,7 +6,7 @@
   <img src="assets/npl-lockup-horizontal-dark-on-light.svg" width="360" alt="Nine Point Labs logo: a 9 built from nine short lines, beside the words Nine Point Labs" />
 </picture>
 
-<a href="https://ninepointlabs.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=2AA4CF&center=true&vCenter=true&width=640&lines=Small%2C+useful+software+for+Linux.;Native+apps+for+Omarchy.;Terminal+tools+that+earn+their+keep.;Nostr+infrastructure%2C+self-custodied.;Shipped+by+one+human+and+a+few+AI+agents." alt="Small, useful software for Linux." /></a>
+<a href="https://ninepointlabs.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=2AA4CF&center=true&vCenter=true&width=640&lines=Small%2C+useful+software+for+Linux.;Native+apps+for+Omarchy.;Terminal+tools+that+earn+their+keep.;Nostr+infrastructure%2C+self-custodied.;Shipped+by+one+human+and+a+few+AI+agents.;Repair+before+the+raid%2C+not+after+the+wipe." alt="Small, useful software for Linux." /></a>
 
 [![Website](https://img.shields.io/badge/ninepointlabs.com-0A536A?style=for-the-badge&labelColor=0C0E11)](https://ninepointlabs.com)
 [![Blog](https://img.shields.io/badge/blog-0A536A?style=for-the-badge&labelColor=0C0E11)](https://blog.ninepointlabs.com)
@@ -21,7 +21,11 @@
 
 ### ✦ Hi, I'm Tim
 
-Combat veteran, semi-retired technologist, Tae Kwon Do dad in East Texas. I write some of the code and direct a small crew of AI agents for the rest. They're named after Ted Lasso characters. No, I will not be taking questions.
+Combat veteran, semi-retired technologist, part-time MSP guy, and full-time dad in Whitehouse, Texas. Most evenings I'm at Tae Kwon Do with my daughters. The rest, I'm probably in Azeroth.
+
+I love World of Warcraft, and it leaks into everything here: an addon manager, a weekly reset widget, Alliance *and* Horde themes, and a [newspaper about my Azeroth life](https://myazerothlife.com). Murlocs never travel alone, and neither do my side projects.
+
+I don't write the code. I know what a tool should feel like, I can tell when it's wrong, and I'm stubborn until it's right. A small crew of AI agents does the typing, and I'm [honest about how that works](https://ninepointlabs.com/how-i-build.html). They're named after Ted Lasso characters. No, I will not be taking questions.
 
 Most of what I build is native to [Omarchy](https://omarchy.org), and all of it is open source except Persistwise. I write about it all on [the blog](https://blog.ninepointlabs.com).
 
