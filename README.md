@@ -31,13 +31,12 @@ Most of what I build is native to [Omarchy](https://omarchy.org), and all of it 
 
 <sub>Latest releases, newest first. The [blog](https://blog.ninepointlabs.com) has the stories.</sub>
 
-- 📖 **[Dogear 0.1.0](https://github.com/ninepointlabs/dogear/releases/tag/v0.1.0)**: a PDF reader for studying
-- 🌴 **[Hyprfall 0.1.2](https://github.com/ninepointlabs/hyprfall/releases/tag/v0.1.2)**: a jungle platformer native to Omarchy
-- 🧺 **[Barback 0.1.1](https://github.com/ninepointlabs/barback/releases/tag/v0.1.1)**: one bar chip, several plugins
-- 🔐 **[Omostrich 0.2.1](https://github.com/ninepointlabs/omostrich/releases/tag/v0.2.1)**: local Nostr key custody
-- 🐦 **[Kestrel 0.1.1](https://github.com/ninepointlabs/kestrel/releases/tag/v0.1.1)**: post to X from the terminal
-- 🔗 **[Linkguard 0.1.0](https://github.com/ninepointlabs/linkguard/releases/tag/v0.1.0)** and 📁 **[folderblog 0.2.2](https://github.com/ninepointlabs/folderblog/releases/tag/v0.2.2)**: for people who write
-- ⏱️ **[wow-reset 0.2.1](https://github.com/ninepointlabs/omarchy-wow-reset/releases/tag/v0.2.1)** and 🕊️ **[Bahá'í Reader 0.1.3](https://github.com/ninepointlabs/bahai-reader/releases/tag/v0.1.3)**
+- 🔐 **[Omostrich 0.3.1](https://github.com/ninepointlabs/omostrich/releases/tag/v0.3.1)**: log in from your phone with a QR code, and profile pictures load safely
+- 📁 **[folderblog 0.2.9](https://github.com/ninepointlabs/folderblog/releases/tag/v0.2.9)**: a folder is a blog, and now a podcast too
+- ✍️ **[Rune 0.8.7](https://github.com/ninepointlabs/rune/releases/tag/v0.8.7)**: fixes from a full QA pass, plus an AppImage for most Linux
+- 🕹️ **[Update Arcade 0.1.3](https://github.com/ninepointlabs/omarchy-update-arcade/releases/tag/v0.1.3)**: Asteroids while `omarchy update` runs. New this week.
+- 📖 **[Dogear 0.1.1](https://github.com/ninepointlabs/dogear/releases/tag/v0.1.1)** and 🌴 **[Hyprfall 0.1.4](https://github.com/ninepointlabs/hyprfall/releases/tag/v0.1.4)**: now as AppImages for other distros
+- 🕊️ **[Bahá'í Reader 0.1.4](https://github.com/ninepointlabs/bahai-reader/releases/tag/v0.1.4)**, 🧺 **[Barback 0.1.1](https://github.com/ninepointlabs/barback/releases/tag/v0.1.1)**, 🐦 **[Kestrel 0.1.1](https://github.com/ninepointlabs/kestrel/releases/tag/v0.1.1)** and 🔗 **[Linkguard 0.1.0](https://github.com/ninepointlabs/linkguard/releases/tag/v0.1.0)**
 
 ### ✦ The Workshop
 
@@ -118,13 +117,13 @@ Syncthing in the Omarchy bar: folders, devices and transfer rates at a glance.
 </td></tr>
 <tr><td width="50%" valign="top">
 
-📬 **[fm-cli](https://github.com/ninepointlabs/fm-cli)**<br />
+📬 **[fm-cli](https://fm-cli.ninepointlabs.com)**<br />
 Fastmail from the terminal, spoken fluently in JMAP. Full-screen TUI plus scriptable JSON commands.
 <br /><sub>`Go` · `TUI`</sub>
 
 </td><td width="50%" valign="top">
 
-📦 **[autonomix-cli](https://github.com/ninepointlabs/autonomix-cli)**<br />
+📦 **[autonomix-cli](https://autonomix-cli.ninepointlabs.com)**<br />
 Install apps straight from GitHub Releases. Obtainium for the command line.
 <br /><sub>`Go` · `CLI`</sub>
 
@@ -204,7 +203,8 @@ A WoW addon that logs your adventures so each session can become a story post.
 [omarchy-wow-reset](https://github.com/ninepointlabs/omarchy-wow-reset) ·
 [omarchy-theme-rotate](https://github.com/ninepointlabs/omarchy-theme-rotate)
 
-**Just for fun:** [Zork I–III](https://github.com/ninepointlabs/omarchy-zorkmachy) ·
+**Just for fun:** [Update Arcade](https://github.com/ninepointlabs/omarchy-update-arcade) (Asteroids during updates) ·
+[Zork I–III](https://github.com/ninepointlabs/omarchy-zorkmachy) ·
 [dopewars](https://github.com/ninepointlabs/omarchy-dopewars)
 
 More on the [Nine Point Labs for Omarchy](https://omarchy.ninepointlabs.com) hub.
@@ -229,6 +229,7 @@ More on the [Nine Point Labs for Omarchy](https://omarchy.ninepointlabs.com) hub
 <summary><b>⌨️ Nostr and terminal odds and ends</b></summary>
 <br />
 
+[PlebOne](https://github.com/PlebOne) my open-source Nostr home, including the relay.pleb.one relay ·
 [omostrich-db](https://github.com/ninepointlabs/omostrich-db) read-only Nostr analytics for your own notes, with MCP tools for agents ·
 [omostrich.com](https://omostrich.com) Omostrich explained in plain language ·
 [tfz](https://github.com/ninepointlabs/tfz) RSS that renders the *full* article
@@ -237,8 +238,10 @@ More on the [Nine Point Labs for Omarchy](https://omarchy.ninepointlabs.com) hub
 
 ### ✦ On the Bench
 
-- 📖 **Dogear** just reached 0.1.0, and **Barback** and **Hyprfall** are new this month. Still finding out what they're missing.
-- 🔐 **[Omostrich](https://github.com/ninepointlabs/omostrich)** is at 0.2 with its read-only sibling, [omostrich-db](https://github.com/ninepointlabs/omostrich-db).
+- 🔐 **[Omostrich](https://github.com/ninepointlabs/omostrich)** is at 0.3. Your phone can log in by scanning a QR code, and your `nsec` still never leaves home.
+- 🐧 Getting the apps onto more of Linux, not just Omarchy. Rune, Dogear and Hyprfall now ship AppImages.
+- 🎙️ **[folderblog](https://folderblog.ninepointlabs.com)** learned podcasts, then spent the week getting QA'd into shape.
+- ⚔️ WoW Forever launches November 4, and [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) is packed and ready to turn sessions into posts on [My Azeroth Life](https://myazerothlife.com).
 - 🤖 Handing the agents more of the busywork, like blog posts and release notes, while I do the worrying.
 - 💡 Whatever idea won't leave me alone this week.
 
