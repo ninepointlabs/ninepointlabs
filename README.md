@@ -35,12 +35,13 @@ Most of what I build is native to [Omarchy](https://omarchy.org), and all of it 
 
 <sub>Latest releases, newest first. The [blog](https://blog.ninepointlabs.com) has the stories.</sub>
 
-- 🔐 **[Omostrich 0.3.1](https://github.com/ninepointlabs/omostrich/releases/tag/v0.3.1)**: log in from your phone with a QR code, and profile pictures load safely
-- 📁 **[folderblog 0.2.9](https://github.com/ninepointlabs/folderblog/releases/tag/v0.2.9)**: a folder is a blog, and now a podcast too
-- ✍️ **[Rune 0.8.7](https://github.com/ninepointlabs/rune/releases/tag/v0.8.7)**: fixes from a full QA pass, plus an AppImage for most Linux
-- 🕹️ **[Update Arcade 0.1.3](https://github.com/ninepointlabs/omarchy-update-arcade/releases/tag/v0.1.3)**: Asteroids while `omarchy update` runs. New this week.
-- 📖 **[Dogear 0.1.1](https://github.com/ninepointlabs/dogear/releases/tag/v0.1.1)** and 🌴 **[Hyprfall 0.1.4](https://github.com/ninepointlabs/hyprfall/releases/tag/v0.1.4)**: now as AppImages for other distros
-- 🕊️ **[Bahá'í Reader 0.1.4](https://github.com/ninepointlabs/bahai-reader/releases/tag/v0.1.4)**, 🧺 **[Barback 0.1.1](https://github.com/ninepointlabs/barback/releases/tag/v0.1.1)**, 🐦 **[Kestrel 0.1.1](https://github.com/ninepointlabs/kestrel/releases/tag/v0.1.1)** and 🔗 **[Linkguard 0.1.0](https://github.com/ninepointlabs/linkguard/releases/tag/v0.1.0)**
+- 🔐 **[Omostrich 0.3.3](https://github.com/ninepointlabs/omostrich/releases/tag/v0.3.3)**: tighter signing grants and safer profile pictures
+- 🕊️ **[Bahá'í Reader 0.1.7](https://github.com/ninepointlabs/bahai-reader/releases/tag/v0.1.7)**: every Kitáb-i-Aqdas paragraph on obligatory prayer, with its notes
+- 📖 **[Dogear 0.1.2](https://github.com/ninepointlabs/dogear/releases/tag/v0.1.2)**: worksheet answers flow onto the next line, and every PDF gets a table of contents
+- 📜 **[StoryTracker 1.0.5](https://github.com/ninepointlabs/wow-storytracker-addon/releases/tag/v1.0.5)**: takes its own screenshots at the story moments
+- ⚔️ **[omaforge 0.2.8](https://github.com/ninepointlabs/omaforge/releases/tag/v0.2.8)**: ready for WoW Forever, then a full QA pass
+- 📁 **[folderblog 0.2.10](https://github.com/ninepointlabs/folderblog/releases/tag/v0.2.10)**: podcast download stats with OP3
+- 🕹️ **[Update Arcade 0.1.3](https://github.com/ninepointlabs/omarchy-update-arcade/releases/tag/v0.1.3)**, 🌴 **[Hyprfall 0.1.4](https://github.com/ninepointlabs/hyprfall/releases/tag/v0.1.4)**, 🧺 **[Barback 0.1.1](https://github.com/ninepointlabs/barback/releases/tag/v0.1.1)**, 🐦 **[Kestrel 0.1.1](https://github.com/ninepointlabs/kestrel/releases/tag/v0.1.1)** and 🔗 **[Linkguard 0.1.0](https://github.com/ninepointlabs/linkguard/releases/tag/v0.1.0)**
 
 ### ✦ The Workshop
 
@@ -64,39 +65,33 @@ A simple database for your own computer. Like the old Microsoft Access, without 
 </td></tr>
 <tr><td width="50%" valign="top">
 
-✍️ **[Rune](https://rune.ninepointlabs.com)** *(beta)*<br />
-A word processor that writes *with* you. ODF-first, with real `.docx` round-trips.
-<br /><sub>`C++` · `Omarchy`</sub>
-
-</td><td width="50%" valign="top">
-
 📖 **[Dogear](https://dogear.ninepointlabs.com)**<br />
 Read, highlight and remember your PDFs. A PDF reader for studying.
 <br /><sub>`Python` · `Omarchy`</sub>
 
-</td></tr>
-<tr><td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 ⚔️ **[omaforge](https://omaforge.ninepointlabs.com)**<br />
 World of Warcraft addons, on Linux. CurseForge, WoWInterface and GitHub.
 <br /><sub>`Python` · `Omarchy`</sub>
 
-</td><td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 
 🕊️ **[Bahá'í Reader](https://bahaireader.org)**<br />
 A quiet place for the Writings. Offline prayer book and reader for Linux.
 <br /><sub>`Python` · `GTK 4`</sub>
 
-</td></tr>
-<tr><td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 🌴 **[Hyprfall](https://hyprfall.ninepointlabs.com)**<br />
 Don't fall in the node_modules. A jungle platformer that wears your Omarchy theme.
 <br /><sub>`JavaScript` · `Game`</sub>
 
-</td><td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 
-🔐 **[Omostrich](https://github.com/ninepointlabs/omostrich)**<br />
+🔐 **[Omostrich](https://omostrich.com)**<br />
 Local Nostr key-custody daemon. Your `nsec` stays home; signing happens over a socket and NIP-46.
 <br /><sub>`Nostr` · `Omarchy`</sub>
 
@@ -235,17 +230,17 @@ More on the [Nine Point Labs for Omarchy](https://omarchy.ninepointlabs.com) hub
 
 [PlebOne](https://github.com/PlebOne) my open-source Nostr home, including the relay.pleb.one relay ·
 [omostrich-db](https://github.com/ninepointlabs/omostrich-db) read-only Nostr analytics for your own notes, with MCP tools for agents ·
-[omostrich.com](https://omostrich.com) Omostrich explained in plain language ·
-[tfz](https://github.com/ninepointlabs/tfz) RSS that renders the *full* article
+[Omostrich source](https://github.com/ninepointlabs/omostrich) the key-custody daemon itself
 
 </details>
 
 ### ✦ On the Bench
 
-- 🔐 **[Omostrich](https://github.com/ninepointlabs/omostrich)** is at 0.3. Your phone can log in by scanning a QR code, and your `nsec` still never leaves home.
-- 🐧 Getting the apps onto more of Linux, not just Omarchy. Rune, Dogear and Hyprfall now ship AppImages.
-- 🎙️ **[folderblog](https://folderblog.ninepointlabs.com)** learned podcasts, then spent the week getting QA'd into shape.
-- ⚔️ WoW Forever launches November 4, and [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) is packed and ready to turn sessions into posts on [My Azeroth Life](https://myazerothlife.com).
+- ⚔️ WoW Forever launches November 4. [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) now snaps its own screenshots, omaforge is ready, and three Tauren brothers are about to start filling [My Azeroth Life](https://myazerothlife.com).
+- 🗄️ **[Persistwise](https://persistwise.com)** is out in the world. Writing that outlasts the platform.
+- ✍️ [I retired Rune](https://blog.ninepointlabs.com/2026/10/sunsetting-rune/). WordCraft already does what I wanted Rune to do, and more, so that's where I write now.
+- 🔐 **[Omostrich](https://omostrich.com)** is at 0.3.3. Phone logins by QR code, tighter signing grants, and your `nsec` still never leaves home.
+- 🐧 Getting the apps onto more of Linux, not just Omarchy. Most of the desktop apps now ship AppImages.
 - 🤖 Handing the agents more of the busywork, like blog posts and release notes, while I do the worrying.
 - 💡 Whatever idea won't leave me alone this week.
 
