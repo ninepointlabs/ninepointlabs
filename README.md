@@ -6,7 +6,7 @@
   <img src="assets/npl-lockup-horizontal-dark-on-light.svg" width="360" alt="Nine Point Labs logo: a 9 built from nine short lines, beside the words Nine Point Labs" />
 </picture>
 
-<a href="https://ninepointlabs.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=2AA4CF&center=true&vCenter=true&width=640&lines=Small%2C+useful+software+for+Linux.;Native+apps+for+Omarchy.;Terminal+tools+that+earn+their+keep.;Nostr+infrastructure%2C+self-custodied.;Shipped+by+one+human+and+a+few+AI+agents.;Repair+before+the+raid%2C+not+after+the+wipe." alt="Small, useful software for Linux." /></a>
+<a href="https://ninepointlabs.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=2AA4CF&center=true&vCenter=true&width=640&lines=Small%2C+useful+software+for+Linux.;Native+apps+for+Omarchy.;Terminal+tools+that+earn+their+keep.;Shipped+by+one+human+and+a+few+AI+agents.;Repair+before+the+raid%2C+not+after+the+wipe." alt="Small, useful software for Linux." /></a>
 
 [![Website](https://img.shields.io/badge/ninepointlabs.com-0A536A?style=for-the-badge&labelColor=0C0E11)](https://ninepointlabs.com)
 [![Blog](https://img.shields.io/badge/blog-0A536A?style=for-the-badge&labelColor=0C0E11)](https://blog.ninepointlabs.com)
@@ -35,11 +35,10 @@ Most of what I build is native to [Omarchy](https://omarchy.org), and all of it 
 
 <sub>Latest releases, newest first. The [blog](https://blog.ninepointlabs.com) has the stories.</sub>
 
-- 🔐 **[Omostrich 0.3.3](https://github.com/ninepointlabs/omostrich/releases/tag/v0.3.3)**: tighter signing grants and safer profile pictures
-- 🕊️ **[Bahá'í Reader 0.1.7](https://github.com/ninepointlabs/bahai-reader/releases/tag/v0.1.7)**: every Kitáb-i-Aqdas paragraph on obligatory prayer, with its notes
+- ⚔️ **[omaforge 0.2.9](https://github.com/ninepointlabs/omaforge/releases/tag/v0.2.9)**: star addons to find them later
+- 🕊️ **[Bahá'í Reader 0.1.8](https://github.com/ninepointlabs/bahai-reader/releases/tag/v0.1.8)**: a Today view for the Badí‘ day
 - 📖 **[Dogear 0.1.2](https://github.com/ninepointlabs/dogear/releases/tag/v0.1.2)**: worksheet answers flow onto the next line, and every PDF gets a table of contents
 - 📜 **[StoryTracker 1.0.5](https://github.com/ninepointlabs/wow-storytracker-addon/releases/tag/v1.0.5)**: takes its own screenshots at the story moments
-- ⚔️ **[omaforge 0.2.8](https://github.com/ninepointlabs/omaforge/releases/tag/v0.2.8)**: ready for WoW Forever, then a full QA pass
 - 📁 **[folderblog 0.2.10](https://github.com/ninepointlabs/folderblog/releases/tag/v0.2.10)**: podcast download stats with OP3
 - 🕹️ **[Update Arcade 0.1.3](https://github.com/ninepointlabs/omarchy-update-arcade/releases/tag/v0.1.3)**, 🌴 **[Hyprfall 0.1.4](https://github.com/ninepointlabs/hyprfall/releases/tag/v0.1.4)**, 🧺 **[Barback 0.1.1](https://github.com/ninepointlabs/barback/releases/tag/v0.1.1)**, 🐦 **[Kestrel 0.1.1](https://github.com/ninepointlabs/kestrel/releases/tag/v0.1.1)** and 🔗 **[Linkguard 0.1.0](https://github.com/ninepointlabs/linkguard/releases/tag/v0.1.0)**
 
@@ -87,13 +86,6 @@ A quiet place for the Writings. Offline prayer book and reader for Linux.
 🌴 **[Hyprfall](https://hyprfall.ninepointlabs.com)**<br />
 Don't fall in the node_modules. A jungle platformer that wears your Omarchy theme.
 <br /><sub>`JavaScript` · `Game`</sub>
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-🔐 **[Omostrich](https://omostrich.com)**<br />
-Local Nostr key-custody daemon. Your `nsec` stays home; signing happens over a socket and NIP-46.
-<br /><sub>`Nostr` · `Omarchy`</sub>
 
 </td></tr>
 </table>
@@ -225,21 +217,18 @@ More on the [Nine Point Labs for Omarchy](https://omarchy.ninepointlabs.com) hub
 </details>
 
 <details>
-<summary><b>⌨️ Nostr and terminal odds and ends</b></summary>
+<summary><b>⌨️ Nostr odds and ends</b></summary>
 <br />
 
-[PlebOne](https://github.com/PlebOne) my open-source Nostr home, including the relay.pleb.one relay ·
-[omostrich-db](https://github.com/ninepointlabs/omostrich-db) read-only Nostr analytics for your own notes, with MCP tools for agents ·
-[Omostrich source](https://github.com/ninepointlabs/omostrich) the key-custody daemon itself
+[PlebOne](https://github.com/PlebOne) my open-source Nostr home, including the relay.pleb.one relay
 
 </details>
 
 ### ✦ On the Bench
 
-- ⚔️ WoW Forever launches November 4. [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) now snaps its own screenshots, omaforge is ready, and three Tauren brothers are about to start filling [My Azeroth Life](https://myazerothlife.com).
+- ⚔️ WoW Forever is live. [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) snaps its own screenshots, [omaforge](https://omaforge.ninepointlabs.com) keeps the addons current, and the new characters are already filing stories for [My Azeroth Life](https://myazerothlife.com).
 - 🗄️ **[Persistwise](https://persistwise.com)** is out in the world. Writing that outlasts the platform.
 - ✍️ [I retired Rune](https://blog.ninepointlabs.com/2026/10/sunsetting-rune/). WordCraft already does what I wanted Rune to do, and more, so that's where I write now.
-- 🔐 **[Omostrich](https://omostrich.com)** is at 0.3.3. Phone logins by QR code, tighter signing grants, and your `nsec` still never leaves home.
 - 🐧 Getting the apps onto more of Linux, not just Omarchy. Most of the desktop apps now ship AppImages.
 - 🤖 Handing the agents more of the busywork, like blog posts and release notes, while I do the worrying.
 - 💡 Whatever idea won't leave me alone this week.
