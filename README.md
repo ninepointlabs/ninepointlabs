@@ -70,7 +70,7 @@ Read, highlight and remember your PDFs. A PDF reader for studying.
 
 </td><td width="50%" valign="top">
 
-⚔️ **[omaforge](https://omaforge.ninepointlabs.com)**<br />
+⚔️ **[omaforge](https://omaforge.myazerothlife.com)**<br />
 World of Warcraft addons, on Linux. CurseForge, WoWInterface and GitHub.
 <br /><sub>`Python` · `Omarchy`</sub>
 
@@ -226,7 +226,7 @@ More on the [Nine Point Labs for Omarchy](https://omarchy.ninepointlabs.com) hub
 
 ### ✦ On the Bench
 
-- ⚔️ WoW Forever is live. [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) snaps its own screenshots, [omaforge](https://omaforge.ninepointlabs.com) keeps the addons current, and the new characters are already filing stories for [My Azeroth Life](https://myazerothlife.com).
+- ⚔️ WoW Forever is live. [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) snaps its own screenshots, [omaforge](https://omaforge.myazerothlife.com) keeps the addons current, and the new characters are already filing stories for [My Azeroth Life](https://myazerothlife.com).
 - 🗄️ **[Persistwise](https://persistwise.com)** is out in the world. Writing that outlasts the platform.
 - ✍️ [I retired Rune](https://blog.ninepointlabs.com/2026/10/sunsetting-rune/). WordCraft already does what I wanted Rune to do, and more, so that's where I write now.
 - 🐧 Getting the apps onto more of Linux, not just Omarchy. Most of the desktop apps now ship AppImages.
