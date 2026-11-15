@@ -23,7 +23,7 @@
 
 Combat veteran, semi-retired technologist, part-time MSP guy, and full-time dad in Whitehouse, Texas. Most evenings I'm at Tae Kwon Do with my daughters. The rest, I'm probably in Azeroth.
 
-I love World of Warcraft, and it leaks into everything here: an addon manager, a weekly reset widget, Alliance *and* Horde themes, and a [newspaper about my Azeroth life](https://myazerothlife.com). Murlocs never travel alone, and neither do my side projects.
+I love World of Warcraft, and it leaks into everything here: an addon manager, class companion addons named after my characters, a weekly reset widget, Alliance *and* Horde themes, and a [newspaper about my Azeroth life](https://myazerothlife.com). Murlocs never travel alone, and neither do my side projects.
 
 I don't write the code. I know what a tool should feel like, I can tell when it's wrong, and I'm stubborn until it's right. A small crew of AI agents does the typing, and I'm [honest about how that works](https://ninepointlabs.com/how-i-build.html). They're named after Ted Lasso characters. No, I will not be taking questions.
 
@@ -35,11 +35,12 @@ Most of what I build is native to [Omarchy](https://omarchy.org), and all of it 
 
 <sub>Latest releases, newest first. The [blog](https://blog.ninepointlabs.com) has the stories.</sub>
 
+- 🧙 **New WoW Forever class companions**: [Tazu's Addon 0.1.1](https://github.com/ninepointlabs/tazus-addon/releases/tag/v0.1.1) (Shaman), [Tristan's Addon 0.1.0](https://github.com/ninepointlabs/tristans-addon/releases/tag/v0.1.0) (Paladin, with PvP), [Parzelle's Addon 0.1.1](https://github.com/ninepointlabs/parzelles-addon/releases/tag/v0.1.1) (Mage) and [Andric's Addon 0.2.2](https://github.com/ninepointlabs/andrics-addon/releases/tag/v0.2.2) (Priest)
+- 🕊️ **[Bahá'í Reader 0.2.1](https://github.com/ninepointlabs/bahai-reader/releases/tag/v0.2.1)**: the 0.2 redesign, with a libadwaita window, a library of books, search, highlights and notes
+- 📁 **[folderblog 0.2.11](https://github.com/ninepointlabs/folderblog/releases/tag/v0.2.11)**: posts ordered by date and time
+- 📖 **[Dogear 0.1.3](https://github.com/ninepointlabs/dogear/releases/tag/v0.1.3)**: EPUB books, marked up like a PDF
 - ⚔️ **[omaforge 0.2.9](https://github.com/ninepointlabs/omaforge/releases/tag/v0.2.9)**: star addons to find them later
-- 🕊️ **[Bahá'í Reader 0.1.8](https://github.com/ninepointlabs/bahai-reader/releases/tag/v0.1.8)**: a Today view for the Badí‘ day
-- 📖 **[Dogear 0.1.2](https://github.com/ninepointlabs/dogear/releases/tag/v0.1.2)**: worksheet answers flow onto the next line, and every PDF gets a table of contents
 - 📜 **[StoryTracker 1.0.5](https://github.com/ninepointlabs/wow-storytracker-addon/releases/tag/v1.0.5)**: takes its own screenshots at the story moments
-- 📁 **[folderblog 0.2.10](https://github.com/ninepointlabs/folderblog/releases/tag/v0.2.10)**: podcast download stats with OP3
 - 🕹️ **[Update Arcade 0.1.3](https://github.com/ninepointlabs/omarchy-update-arcade/releases/tag/v0.1.3)**, 🌴 **[Hyprfall 0.1.4](https://github.com/ninepointlabs/hyprfall/releases/tag/v0.1.4)**, 🧺 **[Barback 0.1.1](https://github.com/ninepointlabs/barback/releases/tag/v0.1.1)**, 🐦 **[Kestrel 0.1.1](https://github.com/ninepointlabs/kestrel/releases/tag/v0.1.1)** and 🔗 **[Linkguard 0.1.0](https://github.com/ninepointlabs/linkguard/releases/tag/v0.1.0)**
 
 ### ✦ The Workshop
@@ -171,6 +172,20 @@ Dead links, found and fixed. Swaps in a Wayback Machine snapshot for Jekyll, Hug
 
 </td><td width="50%" valign="top">
 
+</td></tr>
+</table>
+
+**In Azeroth**
+
+<table>
+<tr><td width="50%" valign="top">
+
+🧙 **WoW Forever class companions**<br />
+What to cast, what to wear, where to quest and what to train, in one window. Each is named after one of my characters: [Andric's](https://andricsaddon.myazerothlife.com) (Priest) · [Parzelle's](https://parzelles-addon.myazerothlife.com) (Mage) · [Tristan's](https://github.com/ninepointlabs/tristans-addon) (Paladin) · [Tazu's](https://github.com/ninepointlabs/tazus-addon) (Shaman)
+<br /><sub>`Lua` · `WoW Forever`</sub>
+
+</td><td width="50%" valign="top">
+
 📜 **[StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon)**<br />
 A WoW addon that logs your adventures so each session can become a story post.
 <br /><sub>`Lua` · `WoW Forever` & `Retail`</sub>
@@ -226,7 +241,7 @@ More on the [Nine Point Labs for Omarchy](https://omarchy.ninepointlabs.com) hub
 
 ### ✦ On the Bench
 
-- ⚔️ WoW Forever is live. [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) snaps its own screenshots, [omaforge](https://omaforge.myazerothlife.com) keeps the addons current, and the new characters are already filing stories for [My Azeroth Life](https://myazerothlife.com).
+- ⚔️ WoW Forever is live, and my characters keep demanding their own class companion addons. Four so far: Priest, Mage, Paladin and Shaman. [StoryTracker](https://github.com/ninepointlabs/wow-storytracker-addon) snaps its own screenshots, [omaforge](https://omaforge.myazerothlife.com) keeps the addons current, and the new characters are already filing stories for [My Azeroth Life](https://myazerothlife.com).
 - 🗄️ **[Persistwise](https://persistwise.com)** is out in the world. Writing that outlasts the platform.
 - ✍️ [I retired Rune](https://blog.ninepointlabs.com/2026/10/sunsetting-rune/). WordCraft already does what I wanted Rune to do, and more, so that's where I write now.
 - 🐧 Getting the apps onto more of Linux, not just Omarchy. Most of the desktop apps now ship AppImages.
